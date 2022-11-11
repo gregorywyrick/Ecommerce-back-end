@@ -14,7 +14,7 @@ From the root directory, the user will run 'npm start' to initiate the server. F
 
 ## Demo
 
-Please follow this link to find a walkthrough demonstration video of this project: 
+Please follow this link to find a walkthrough demonstration video of this project: https://youtu.be/ADSSmeDQPEg
 
 ## License
 
